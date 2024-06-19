@@ -47,7 +47,7 @@ const HomeScreen = ({ route }) => {
           <TextInput style={styles.searchInput} placeholder="Search" />
             <Image source={require('./assets/search.png')} style={styles.searchIcon} />
           <TouchableOpacity>
-            <Image source={require('./assets/but.PNG')} style={styles.listIcon} />
+            {/* <Image source={require('./assets/but.PNG')} style={styles.listIcon} /> */}
           </TouchableOpacity>
         </View>
         <View style={styles.sectionHeader}>
