@@ -47,4 +47,15 @@ A section displaying at least 8 different job cards marked as featured.
    cd job-application
 
 # SCREEN SHOT OF THE VARIOUS PAGES
+### Login Page
+![Signin](https://github.com/EdiscoKes/rn-assignment4-11137631/assets/151837632/05b9c448-23cd-4369-9eec-1ec5c02367f5)
+
+### Home Screen
+![WhatsApp Image 2024-06-19 at 18 41 04_372ad524](https://github.com/EdiscoKes/rn-assignment4-11137631/assets/151837632/5c457c2f-605e-4e77-81bd-900a31b37b63)
+![WhatsApp Image 2024-06-19 at 18 41 04_c21ec25d](https://github.com/EdiscoKes/rn-assignment4-11137631/assets/151837632/16c88b98-3c7d-41cd-a338-5098f65a8e81)
+![WhatsApp Image 2024-06-19 at 18 41 04_36642056](https://github.com/EdiscoKes/rn-assignment4-11137631/assets/151837632/23aa9892-d43a-4a85-b6a1-9d822f1d61f5)
+
+
+
+
 
